@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Edu.Armas
+#### I like learning
+Hello, My name is Edu a few months ago I started learning to program on my own by watching videos and reading. last I joined a community called coderhouse there I learned several things and every day more and more I like :heart: programming I can handle HTML / CSS / JS / REACT every day learning more and more :books: 
 
-<!--
-**BigNitgh/BigNitgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / JS / REACT 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on in my portfolio :grin: 
+- 🌱 I’m currently learning React :eyes: 
+- 😄 Pronouns: BigNitgh :grin: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BigNitgh)  
+
+
