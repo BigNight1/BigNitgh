@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoYm1iYnA0bWp6MWIxMGtnbWY2azNnbGJpYjNjbzgwcmdsOXdqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200px">
-  <h1>### Hi there 👋, my name is Edu.Armash1</h1>
+  <h1>Hi there 👋, my name is Edu Armas</h1>
 </div>
 
 #### I like learning
