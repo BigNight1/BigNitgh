@@ -26,9 +26,7 @@
   </div> 
 </div>
 
-- 🔭 I’m currently working on in my portfolio :grin: 
-- 🌱 I’m currently learning React :eyes: 
-- 😄 Pronouns: BigNitgh :grin: 
+- 😄 Pronoun: BigNitgh :grin: 
 
 
 
