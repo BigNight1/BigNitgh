@@ -1,4 +1,8 @@
-### Hi there 👋, my name is Edu.Armas
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoYm1iYnA0bWp6MWIxMGtnbWY2azNnbGJpYjNjbzgwcmdsOXdqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+  ### Hi there 👋, my name is Edu.Armas
+</div>
+
 #### I like learning
 Hello, My name is Edu a few months ago I started learning to program on my own by watching videos and reading. last I joined a community called coderhouse there I learned several things and every day more and more I like :heart: programming I can handle HTML / CSS / JS / REACT every day learning more and more :books: 
 
