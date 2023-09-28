@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </div> 
 </div>
+<div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BigNitgh&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BigNitgh&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigNitgh&hide_progress=true)</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
