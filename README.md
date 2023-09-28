@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoYm1iYnA0bWp6MWIxMGtnbWY2azNnbGJpYjNjbzgwcmdsOXdqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250px">
   <h1 align="center">Hi there 👋, I'm Edu Armas</h1>
  <a href="https://www.linkedin.com/in/edu-armas-1a4b16260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/edu-armas-1a4b16260/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
 <div align ="center">
@@ -9,6 +10,8 @@
   <p>I'm a front-end developer with a passion for web development. Currently, I'm diving into backend development using 
   JavaScript with Node.js and Express. I'm working on a full-featured e-commerce project, from database creation to 
   implementing CRUD operations.</p>
+
+  Your can reach me at <a href="mailto:onemid76@gmail.com">onemid76@gmail.com</a>
 </div>
 
 <div>
@@ -27,3 +30,5 @@
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BigNitgh&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
