@@ -11,7 +11,7 @@
   JavaScript with Node.js and Express. I'm working on a full-featured e-commerce project, from database creation to 
   implementing CRUD operations.</p>
 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">Your can reach me at <a href="mailto:onemid76@gmail.com">onemid76@gmail.com</a>
+  :e-mail: Your can reach me at <a href="mailto:onemid76@gmail.com">onemid76@gmail.com</a>
 </div>
 
 <div>
