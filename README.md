@@ -1,80 +1,86 @@
 <div align="center">
-  <h1 align="center">Hi there 👋, I'm Edu Armas</h1>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BigNight1&theme=dark&locale=es" alt="GitHub Streak" /></a>
+  <!-- Banner animado -->
+  <img src="https://tuservidor/banner.gif" width="800" alt="Banner animado" />
   
- <a href="https://www.linkedin.com/in/edu-armas-1a4b16260/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
+  <h1>Hi there 👋, I'm Edu Armas</h1>
   
+  <!-- Estadísticas y badges -->
+  <br />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=BigNight1&theme=dark&locale=es)](https://git.io/streak-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigNight1&show_icons=true&theme=dark)](https://github.com/BigNight1)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigNight1&layout=compact&theme=dark)](https://github.com/BigNight1)
 </div>
 
-<div align ="center">
-  <h2>About Me</h2>
-  <p>I'm a front-end developer with a passion for web development. Currently, I'm diving into backend development using 
-  JavaScript with Node.js and Express. I'm working on a full-featured e-commerce project, from database creation to 
-  implementing CRUD operations.</p>
+---
 
-  :e-mail: Your can reach me at <a href="mailto:onemid76@gmail.com">onemid76@gmail.com</a>
+## 🧭 Índice
+- [Sobre mí](#sobre-mí)
+- [Tecnologías](#tecnologías)
+- [Proyectos destacados](#proyectos-destacados)
+- [Contacto](#contacto)
+- [Fun facts](#fun-facts)
+
+---
+
+### Sobre mí
+Soy un **front‑end developer** con pasión por el desarrollo web. Actualmente, me estoy adentrando en **backend** con **JavaScript**, **Node.js** y **Express**, desarrollando un proyecto completo de e‑commerce: desde la base de datos hasta las operaciones CRUD.
+
+📧 Escríbeme: [onemid76@gmail.com](mailto:onemid76@gmail.com)
+
+---
+
+### Tecnologías que uso
+
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,vite" height="40" />
+
+#### Backend & Bases de datos
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,sqlite,mongodb,postman" height="40" />
+
+#### DevOps & Herramientas
+<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,gcp,firebase,linux,git,github,vscode" height="40" />
+
+#### Diseño & Scripts
+<img src="https://skillicons.dev/icons?i=figma,md,bash,powershell" height="40" />
+
+---
+
+### 🚀 Proyectos destacados
+
+- **E‑Commerce Full‑Stack** – Plataforma de ventas con carrito, catálogo y gestión de usuarios. Tech: React, Node.js, Express, PostgreSQL.
+- **Portfolio Personal** – Showcase de mis proyectos y habilidades. Tech: Astro + Tailwind; deploy en Vercel.
+- **API REST con NestJS** – Servicios CRUD, autenticación y pruebas con Jest; base de datos en MongoDB y PostgreSQL.
+
+---
+
+### Fun facts
+- 🎧 Actualmente escuchando: *Insertar tu artista o podcast favorito.*
+- 📘 Leyendo: *Libro técnico o novela actual.*
+- ⚡ Fun fact: Me encanta automatizar tareas con scripts y mejorar mi productividad con nuevas herramientas.
+
+---
+
+## Contacto
+<div align="center">
+  <a href="https://www.linkedin.com/in/edu-armas-1a4b16260/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
 </div>
 
-<div>
-  <h3>Some technologies I use</h3>
-  <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-  </div> 
-</div>
+---
+
+↪️ **Cómo destacar aún más (opcional):**
+- Añadir un contador de visitas a tu perfil con `github-profile-views-counter` :contentReference[oaicite:1]{index=1}
+- Incluir una sección “Ahora escuchando en Spotify” (via un widget)
+- Agregar un efecto de texto tipo “typing” usando `readme-typing-svg` :contentReference[oaicite:2]{index=2}
+
+---
+
+### ✅ Resumen
+Este README combina:
+1. **Banner visual y centrado** para captar atención.
+2. **Badges dinámicos**, que muestran actividad y lenguajes más usados :contentReference[oaicite:3]{index=3}.
+3. **Estructura clara** con índice y secciones organizadas.
+4. **Proyectos destacados** con contexto y tecnologías.
+5. **Toque personal** para humanizar tu perfil.
+6. **Potenciales mejoras** para añadir dinámicas e interactividad.
