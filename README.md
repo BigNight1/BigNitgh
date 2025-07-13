@@ -27,7 +27,7 @@ Soy un **front‑end developer** con pasión por el desarrollo web. Actualmente,
 
 ---
 
-### Tecnologías que uso
+### Tecnologías
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,vite" height="40" />
