@@ -6,9 +6,8 @@
   
   <!-- Estadísticas y badges -->
   <br />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=BigNight1&theme=dark&locale=es)](https://git.io/streak-stats)
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigNight1&show_icons=true&theme=dark)](https://github.com/BigNight1)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigNight1&layout=compact&theme=dark)](https://github.com/BigNight1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bignight1)](https://git.io/streak-stats)  
+![BigNight1's Stats](https://github-readme-stats.vercel.app/api?username=BigNight1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 ---
@@ -69,18 +68,6 @@ Soy un **front‑end developer** con pasión por el desarrollo web. Actualmente,
 
 ---
 
-↪️ **Cómo destacar aún más (opcional):**
-- Añadir un contador de visitas a tu perfil con `github-profile-views-counter` :contentReference[oaicite:1]{index=1}
-- Incluir una sección “Ahora escuchando en Spotify” (via un widget)
-- Agregar un efecto de texto tipo “typing” usando `readme-typing-svg` :contentReference[oaicite:2]{index=2}
+- <a href="https://u8views.com/github/BigNight1"><img src="https://u8views.com/api/v1/github/profiles/104038912/views/day-week-month-total-count.svg"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Let's+always+support+each+other." alt="Typing SVG" /></a>
 
----
-
-### ✅ Resumen
-Este README combina:
-1. **Banner visual y centrado** para captar atención.
-2. **Badges dinámicos**, que muestran actividad y lenguajes más usados :contentReference[oaicite:3]{index=3}.
-3. **Estructura clara** con índice y secciones organizadas.
-4. **Proyectos destacados** con contexto y tecnologías.
-5. **Toque personal** para humanizar tu perfil.
-6. **Potenciales mejoras** para añadir dinámicas e interactividad.
