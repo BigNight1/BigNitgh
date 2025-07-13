@@ -1,5 +1,5 @@
-<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=BigNight1&theme=dark&locale=es)](https://git.io/streak-stats)
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoYm1iYnA0bWp6MWIxMGtnbWY2azNnbGJpYjNjbzgwcmdsOXdqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250px">
   <h1 align="center">Hi there 👋, I'm Edu Armas</h1>
  <a href="https://www.linkedin.com/in/edu-armas-1a4b16260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
