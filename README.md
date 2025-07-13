@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BigNight1&theme=dark&locale=es" alt="GitHub Streak" /></a>
   <h1 align="center">Hi there 👋, I'm Edu Armas</h1>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BigNight1&theme=dark&locale=es" alt="GitHub Streak" /></a>
  <a href="https://www.linkedin.com/in/edu-armas-1a4b16260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
