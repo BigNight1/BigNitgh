@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <!-- Banner animado -->
   <img src="https://tuservidor/banner.gif" width="800" alt="Banner animado" />
   
