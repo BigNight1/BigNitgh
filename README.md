@@ -5,10 +5,9 @@
   <h1>Hi there 👋, I'm Edu Armas</h1>
   
   <!-- Estadísticas y badges -->
-  <br />
+![BigNight1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigNight1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  <br />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BigNight1" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bignight1)](https://git.io/streak-stats)  
-![BigNight1's Stats](https://github-readme-stats.vercel.app/api?username=BigNight1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
